@@ -60,19 +60,25 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃QUEEN_KYLIE-V1 CONNECTED 👸❤️🧸
+┃THANK YOU FOR CHOOSING KYLIE 👸❤️🧸
+┃SESSION_ID CONNECTED, SEND YOUR SESSION_ID 
+┃TO YOUR DEPLOYER 👸🧸❤️
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+|| Creator = メ CADILLAC CYLEE メ
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+|| WhatsApp Channel = https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+|| WhatsApp Group = https://chat.whatsapp.com/DfzejIdGQGXB8Z2dm4Oj0E
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+|| Repository = https://github.com/errrbodyhatescylee/Queen_Kylie-V1
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me ? ❤️🧸 27615045572
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024-2099 CyleeTech*
+
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
